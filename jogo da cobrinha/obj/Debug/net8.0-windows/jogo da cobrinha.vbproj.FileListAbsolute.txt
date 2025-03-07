@@ -1,0 +1,16 @@
+C:\Users\ceepa\source\repos\jogo da cobrinha\jogo da cobrinha\bin\Debug\net8.0-windows\jogo da cobrinha.exe
+C:\Users\ceepa\source\repos\jogo da cobrinha\jogo da cobrinha\bin\Debug\net8.0-windows\jogo da cobrinha.deps.json
+C:\Users\ceepa\source\repos\jogo da cobrinha\jogo da cobrinha\bin\Debug\net8.0-windows\jogo da cobrinha.runtimeconfig.json
+C:\Users\ceepa\source\repos\jogo da cobrinha\jogo da cobrinha\bin\Debug\net8.0-windows\jogo da cobrinha.dll
+C:\Users\ceepa\source\repos\jogo da cobrinha\jogo da cobrinha\bin\Debug\net8.0-windows\jogo da cobrinha.pdb
+C:\Users\ceepa\source\repos\jogo da cobrinha\jogo da cobrinha\obj\Debug\net8.0-windows\jogo_da_cobrinha.Form1.resources
+C:\Users\ceepa\source\repos\jogo da cobrinha\jogo da cobrinha\obj\Debug\net8.0-windows\jogo da cobrinha.vbproj.GenerateResource.cache
+C:\Users\ceepa\source\repos\jogo da cobrinha\jogo da cobrinha\obj\Debug\net8.0-windows\jogo da cobrinha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ceepa\source\repos\jogo da cobrinha\jogo da cobrinha\obj\Debug\net8.0-windows\jogo da cobrinha.AssemblyInfoInputs.cache
+C:\Users\ceepa\source\repos\jogo da cobrinha\jogo da cobrinha\obj\Debug\net8.0-windows\jogo da cobrinha.AssemblyInfo.vb
+C:\Users\ceepa\source\repos\jogo da cobrinha\jogo da cobrinha\obj\Debug\net8.0-windows\jogo da cobrinha.vbproj.CoreCompileInputs.cache
+C:\Users\ceepa\source\repos\jogo da cobrinha\jogo da cobrinha\obj\Debug\net8.0-windows\jogo da cobrinha.dll
+C:\Users\ceepa\source\repos\jogo da cobrinha\jogo da cobrinha\obj\Debug\net8.0-windows\refint\jogo da cobrinha.dll
+C:\Users\ceepa\source\repos\jogo da cobrinha\jogo da cobrinha\obj\Debug\net8.0-windows\jogo da cobrinha.pdb
+C:\Users\ceepa\source\repos\jogo da cobrinha\jogo da cobrinha\obj\Debug\net8.0-windows\jogo da cobrinha.genruntimeconfig.cache
+C:\Users\ceepa\source\repos\jogo da cobrinha\jogo da cobrinha\obj\Debug\net8.0-windows\ref\jogo da cobrinha.dll
