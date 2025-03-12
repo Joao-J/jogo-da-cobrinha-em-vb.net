@@ -25,6 +25,7 @@ Partial Class Form1
         components = New ComponentModel.Container()
         Timer1 = New Timer(components)
         Timer2 = New Timer(components)
+        Timer3 = New Timer(components)
         SuspendLayout()
         ' 
         ' Timer1
@@ -34,11 +35,15 @@ Partial Class Form1
         ' Timer2
         ' 
         ' 
+        ' Timer3
+        ' 
+        ' 
         ' Form1
         ' 
         AutoScaleDimensions = New SizeF(7F, 15F)
         AutoScaleMode = AutoScaleMode.Font
         ClientSize = New Size(800, 450)
+        FormBorderStyle = FormBorderStyle.None
         Name = "Form1"
         Text = "Form1"
         ResumeLayout(False)
@@ -46,5 +51,6 @@ Partial Class Form1
 
     Friend WithEvents Timer1 As Timer
     Friend WithEvents Timer2 As Timer
+    Friend WithEvents Timer3 As Timer
 
 End Class

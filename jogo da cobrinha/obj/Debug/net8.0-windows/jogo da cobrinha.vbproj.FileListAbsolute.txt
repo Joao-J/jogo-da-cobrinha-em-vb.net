@@ -14,3 +14,20 @@ C:\Users\ceepa\source\repos\jogo da cobrinha\jogo da cobrinha\obj\Debug\net8.0-w
 C:\Users\ceepa\source\repos\jogo da cobrinha\jogo da cobrinha\obj\Debug\net8.0-windows\jogo da cobrinha.pdb
 C:\Users\ceepa\source\repos\jogo da cobrinha\jogo da cobrinha\obj\Debug\net8.0-windows\jogo da cobrinha.genruntimeconfig.cache
 C:\Users\ceepa\source\repos\jogo da cobrinha\jogo da cobrinha\obj\Debug\net8.0-windows\ref\jogo da cobrinha.dll
+C:\Users\Tenata\Source\Repos\Joao-J\jogo-da-cobrinha-em-vb.net\jogo da cobrinha\bin\Debug\net8.0-windows\jogo da cobrinha.exe
+C:\Users\Tenata\Source\Repos\Joao-J\jogo-da-cobrinha-em-vb.net\jogo da cobrinha\bin\Debug\net8.0-windows\jogo da cobrinha.deps.json
+C:\Users\Tenata\Source\Repos\Joao-J\jogo-da-cobrinha-em-vb.net\jogo da cobrinha\bin\Debug\net8.0-windows\jogo da cobrinha.runtimeconfig.json
+C:\Users\Tenata\Source\Repos\Joao-J\jogo-da-cobrinha-em-vb.net\jogo da cobrinha\bin\Debug\net8.0-windows\jogo da cobrinha.dll
+C:\Users\Tenata\Source\Repos\Joao-J\jogo-da-cobrinha-em-vb.net\jogo da cobrinha\bin\Debug\net8.0-windows\jogo da cobrinha.pdb
+C:\Users\Tenata\Source\Repos\Joao-J\jogo-da-cobrinha-em-vb.net\jogo da cobrinha\obj\Debug\net8.0-windows\jogo_da_cobrinha.Form1.resources
+C:\Users\Tenata\Source\Repos\Joao-J\jogo-da-cobrinha-em-vb.net\jogo da cobrinha\obj\Debug\net8.0-windows\jogo da cobrinha.vbproj.GenerateResource.cache
+C:\Users\Tenata\Source\Repos\Joao-J\jogo-da-cobrinha-em-vb.net\jogo da cobrinha\obj\Debug\net8.0-windows\jogo da cobrinha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tenata\Source\Repos\Joao-J\jogo-da-cobrinha-em-vb.net\jogo da cobrinha\obj\Debug\net8.0-windows\jogo da cobrinha.AssemblyInfoInputs.cache
+C:\Users\Tenata\Source\Repos\Joao-J\jogo-da-cobrinha-em-vb.net\jogo da cobrinha\obj\Debug\net8.0-windows\jogo da cobrinha.AssemblyInfo.vb
+C:\Users\Tenata\Source\Repos\Joao-J\jogo-da-cobrinha-em-vb.net\jogo da cobrinha\obj\Debug\net8.0-windows\jogo da cobrinha.vbproj.CoreCompileInputs.cache
+C:\Users\Tenata\Source\Repos\Joao-J\jogo-da-cobrinha-em-vb.net\jogo da cobrinha\obj\Debug\net8.0-windows\jogo da cobrinha.sourcelink.json
+C:\Users\Tenata\Source\Repos\Joao-J\jogo-da-cobrinha-em-vb.net\jogo da cobrinha\obj\Debug\net8.0-windows\jogo da cobrinha.dll
+C:\Users\Tenata\Source\Repos\Joao-J\jogo-da-cobrinha-em-vb.net\jogo da cobrinha\obj\Debug\net8.0-windows\refint\jogo da cobrinha.dll
+C:\Users\Tenata\Source\Repos\Joao-J\jogo-da-cobrinha-em-vb.net\jogo da cobrinha\obj\Debug\net8.0-windows\jogo da cobrinha.pdb
+C:\Users\Tenata\Source\Repos\Joao-J\jogo-da-cobrinha-em-vb.net\jogo da cobrinha\obj\Debug\net8.0-windows\jogo da cobrinha.genruntimeconfig.cache
+C:\Users\Tenata\Source\Repos\Joao-J\jogo-da-cobrinha-em-vb.net\jogo da cobrinha\obj\Debug\net8.0-windows\ref\jogo da cobrinha.dll
