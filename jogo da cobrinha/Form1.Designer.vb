@@ -30,13 +30,13 @@ Partial Class Form1
         ' 
         ' Timer1
         ' 
-        Timer1.Interval = 150
         ' 
         ' Timer2
         ' 
         ' 
         ' Timer3
         ' 
+        Timer3.Interval = 1
         ' 
         ' Form1
         ' 

@@ -20,6 +20,7 @@
         form2.Show()
         form2.Height = 0
         form2.Width = Me.Width
+        Me.Focus()
 
         Timer3.Enabled = True
 
@@ -177,6 +178,14 @@
         End If
         Me.Left = form2.Left
         Me.Top = form2.Top + 40
-        form2.Text = "[                    ]"
+        Dim x As Integer = Int32.Parse((tamanhodomapa(0) - 1) * (tamanhodomapa(1) - 1))
+        Dim y As Integer = corpo.Count
+        Dim z = y * 100
+        Dim r = z / x
+        Dim r1 = CInt(r)
+        Dim qm = CInt(r1 / 5)
+        Dim meu = "--------------------"
+        Dim meu2 = meu.Substring(0, qm).Replace("-", "*")
+        form2.Text = "Pontos: [" & meu2 & meu.Remove(0, qm) & "]  " & r1 & "% PORCENTO"
     End Sub
 End Class

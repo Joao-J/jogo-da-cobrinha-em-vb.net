@@ -23,14 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.vb [Design]",
+              "Title": "Form1.vb [Projeto]",
               "DocumentMoniker": "C:\\Users\\Tenata\\source\\repos\\Joao-J\\jogo-da-cobrinha-em-vb.net\\jogo da cobrinha\\Form1.vb",
               "RelativeDocumentMoniker": "jogo da cobrinha\\Form1.vb",
-              "ToolTip": "C:\\Users\\Tenata\\source\\repos\\Joao-J\\jogo-da-cobrinha-em-vb.net\\jogo da cobrinha\\Form1.vb [Design]",
-              "RelativeToolTip": "jogo da cobrinha\\Form1.vb [Design]",
+              "ToolTip": "C:\\Users\\Tenata\\source\\repos\\Joao-J\\jogo-da-cobrinha-em-vb.net\\jogo da cobrinha\\Form1.vb [Projeto]",
+              "RelativeToolTip": "jogo da cobrinha\\Form1.vb [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-03-10T00:09:39.189Z",
-              "EditorCaption": " [Design]"
+              "EditorCaption": " [Projeto]"
             },
             {
               "$type": "Document",
@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "jogo da cobrinha\\Form1.vb",
               "ToolTip": "C:\\Users\\Tenata\\source\\repos\\Joao-J\\jogo-da-cobrinha-em-vb.net\\jogo da cobrinha\\Form1.vb",
               "RelativeToolTip": "jogo da cobrinha\\Form1.vb",
-              "ViewState": "AQIAAJIAAAAAAAAAAAAewLMAAAAYAAAA",
+              "ViewState": "AQIAALMAAAAAAAAAAAAAwK8AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-03-09T22:29:13.575Z",
               "EditorCaption": ""

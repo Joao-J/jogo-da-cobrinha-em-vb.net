@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("jogo da cobrinha"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c04db374cd0dfcaf9e385322baecfe84e2684cc6"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bad02884997e943129820a99d024e7cf48fc4988"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("jogo da cobrinha"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("jogo da cobrinha"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
